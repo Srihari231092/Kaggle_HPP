@@ -12,3 +12,5 @@ When a notebook is updated, your forked repo will have to be updated using the f
 1. Type the command <b>git pull https://github.com/uchicago-msca-club/Kaggle_HPP.git</b>
 1. <b>push</b> the changes using Github desktop or typing <b>git push</b> in the terminal
 
+## WHy is there no case 2? 
+
